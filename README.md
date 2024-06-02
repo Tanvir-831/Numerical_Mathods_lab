@@ -1,1 +1,1 @@
-"# Numerical_Mathods_lab" 
+Welcome to the Numerical Methods Lab repository. This repository contains a series of experiments designed to provide hands-on experience with various numerical techniques in scientific computing. Dive in to explore, implement, and analyze algorithms for solving real-world mathematical problems.
